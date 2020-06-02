@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1574397884 source:c:\users\rig4\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+
+1574398703 c:\users\rig4\desktop\projeto\projeto.h
+
+1574397843 source:c:\users\rig4\desktop\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+
+1574715323 source:c:\users\aluno\desktop\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
+1574715323 c:\users\aluno\desktop\projeto\projeto.h
+
+1574717549 source:c:\users\aluno\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+
+1574815514 source:g:\projeto_ed_lista_contatos\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
+1574718924 g:\projeto_ed_lista_contatos\projeto\projeto.h
+
+1574815112 source:g:\projeto_ed_lista_contatos\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projeto.h"
+
+1575498516 source:c:\users\rig4\desktop\nova pasta (2)\projeto\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"projeto.h"
+
+1575499757 c:\users\rig4\desktop\nova pasta (2)\projeto\projeto.h
+
+1575498947 source:c:\users\rig4\desktop\nova pasta (2)\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"projeto.h"
+
